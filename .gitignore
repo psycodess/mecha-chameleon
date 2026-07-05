@@ -1,0 +1,3 @@
+prepare_repo.ps1
+push_batches.ps1
+*.log
